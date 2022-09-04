@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **azujuuuuuun/azujuuuuuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azujuuuuuun&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azujuuuuuun&exclude_repo=kyoupro&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
